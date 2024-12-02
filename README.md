@@ -1,0 +1,13 @@
+- string Pet;
+-
+- cout << "What Is Your Favorite Pet: \n";
+- cin >> Pet;
+-
+- if(Pet == "cats")
+- {
+-    cout << "I love Cats";
+- }
+- else
+- {
+-   cout << "hmm, i dont care";
+- }
